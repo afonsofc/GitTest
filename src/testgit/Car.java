@@ -11,4 +11,8 @@ public class Car {
         this.year = year;
     }
     
+    public void move(){
+        System.out.println("car is moving");
+    }
+    
 }
