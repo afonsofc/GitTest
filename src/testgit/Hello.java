@@ -6,6 +6,7 @@ package testgit;
  */
 public class Hello {
 
+    public String message;
     /**
      * @param args the command line arguments
      */
