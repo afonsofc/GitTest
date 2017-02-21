@@ -15,7 +15,7 @@ public class Car {
     
     public void move(){
         isMoving = true;
-        System.out.println("car is moving");
+        System.out.println("car is stopped");
     }
     
 }
